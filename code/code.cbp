@@ -621,11 +621,35 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../lv_examples/src/lv_examples.h" />
+		<Unit filename="../lv_examples/src/user_test/font1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../lv_examples/src/user_test/lv_img_die.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../lv_examples/src/user_test/lv_img_rw.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../lv_examples/src/user_test/test_conf.h" />
+		<Unit filename="../lv_examples/src/user_test/test_event.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../lv_examples/src/user_test/test_font.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../lv_examples/src/user_test/test_label.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="../lv_examples/src/user_test/test_obj.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../lv_examples/src/user_test/test_style.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../lv_examples/src/user_test/test_task.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../lv_examples/src/user_test/tool.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../lvgl/examples/porting/lv_port_disp_template.c">

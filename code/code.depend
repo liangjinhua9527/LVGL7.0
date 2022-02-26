@@ -2125,7 +2125,7 @@
 	"../lv_test_assert.h"
 	"lv_test_label.h"
 
-1645779802 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\main.c
+1645845059 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\main.c
 	<stdlib.h>
 	<unistd.h>
 	<SDL2/SDL.h>
@@ -2541,12 +2541,21 @@
 1645757521 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\font1.c
 	"../../lvgl.h"
 
-1645779659 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\test_font.c
+1645844985 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\test_font.c
 	"test_conf.h"
 
-1645772638 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\test_obj.c
+1645844900 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\test_obj.c
 	"test_conf.h"
 
 1645773372 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\tool.c
+	"lvgl/lvgl.h"
+
+1645781192 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\test_style.c
+	"test_conf.h"
+
+1645844351 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\test_event.c
+	"test_conf.h"
+
+1645846565 source:c:\users\administrator\desktop\vlgl\pc_demo\lv_sim_eclipse_sdl-dev-7.0\lv_examples\src\user_test\lv_img_die.c
 	"lvgl/lvgl.h"
 

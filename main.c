@@ -67,10 +67,12 @@ int main(int argc, char **argv)
 
  // test_style_start();
 
+    test_font1_start();
+
 //test_font1_start();
 
 //¹Ù·½demo
-lv_demo_widgets();
+ //lv_demo_widgets();
 
   //lv_demo_keypad_encoder();
 
