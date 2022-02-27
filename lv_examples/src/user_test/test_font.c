@@ -22,7 +22,7 @@ void test_font1_start()
 //
     lv_obj_t * label2 = lv_label_create(obj, NULL);
     lv_obj_set_pos(label2,0,50);
-    lv_label_set_text(label2, lv_img_rw "Apply");
+    lv_label_set_text(label2, MY_USB_SYMBOL);
 
 
 //    //外部位图片显示
